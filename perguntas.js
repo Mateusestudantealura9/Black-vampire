@@ -1,23 +1,22 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Sobre anime',
+    'Qual o personagem mais foda dos animes',
+    'Joseph Joestar (part 2)'
+    
+    criaCartao(
+    'sobre xaruto',
+    'Qual o personagem mais maconheiro do anime?',
+    'Exatamente é o Rock Lee'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Sobre animações',
+    'Qual o personagem mais forte das animações?',
+    'exatamente o SuperBoy Prime'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Minecraft',
+    'Qual e o item mais raro de se obter?',
+    'Uma namorada'
 )
