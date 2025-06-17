@@ -2,7 +2,8 @@ criaCartao(
     'Sobre anime',
     'Qual o personagem mais foda dos animes',
     'Joseph Joestar (part 2)',
-    
+    )
+
     criaCartao(
     'sobre xaruto',
     'Qual o personagem mais maconheiro do anime?',
